@@ -19,7 +19,7 @@ Ideal for use cases like knowledge base Q&A, chatbot agents, document intelligen
 
 - **[LangChain](https://www.langchain.com/)** – Orchestration framework for LLMs.
 - **Vector Store** – FAISS / Chroma / Pinecone (configurable).
-- **Embeddings** – OpenAI / HuggingFace / BGE / Cohere.
+- **Embeddings** – GoogleEmbedding.
 - **LLMs** –  Google Gemini.
 - **Python** – Core implementation language.
 
