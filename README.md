@@ -1,6 +1,6 @@
 # 🚀 LangChain + MultiRAG Implementation
 
-An advanced implementation combining the power of **LangChai** with **Multi-Document Retrieval-Augmented Generation (MultiRAG)** to build a scalable and efficient question-answering system.
+An advanced implementation combining the power of **LangChai** with **Multi-Document Retrieval-Augmented Generation (MultiRAG)** and **LangGraph** to build a scalable and efficient question-answering system.
 
 ---
 
@@ -40,4 +40,4 @@ Ideal for use cases like knowledge base Q&A, chatbot agents, document intelligen
    ```bash
    git clone https://github.com/Dhruvil369/Langgraph_With_Rag.git
    cd Langgraph_With_Rag
-   Python FileName.py
+   
