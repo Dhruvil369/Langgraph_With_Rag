@@ -1,4 +1,4 @@
-# 🚀 LangChain + MultiRAG Implementation
+# 🚀 LangGraph + MultiRAG Implementation
 
 An advanced implementation combining the power of **LangChai** with **Multi-Document Retrieval-Augmented Generation (MultiRAG)** and **LangGraph** to build a scalable and efficient question-answering system.
 
